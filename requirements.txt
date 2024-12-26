@@ -1,0 +1,6 @@
+torch
+torchvision
+tqdm
+pytest
+numpy
+torch-summary
